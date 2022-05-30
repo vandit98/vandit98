@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vandit98
 - 👀 I’m interested in machine learning and deep learning.
-- 🌱 I’m currently learning nueral networks.
+- 🌱 I’m currently learning neural networks.
 - 💞️ I’m looking to join some reasearch or contribute to some open source project.
 - 📫 How to reach me -whatsapp- 7840073450 or email me grindandeat786@gmail.com.
 
